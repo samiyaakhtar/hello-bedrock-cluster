@@ -1,0 +1,12 @@
+name: hello-bedrock
+subcomponents:
+- name: hello-bedrock
+  type: component
+  source: https://github.com/samiyaakhtar/hello-bedrock-hld
+  method: git
+  branch: master
+- name: hello-spektate
+  type: component
+  source: https://github.com/samiyaakhtar/hello-spektate-hld
+  method: git
+  branch: master
